@@ -6,7 +6,7 @@ Example of the complete API project for week 11.
 The app has been deployed to Heroku so can be tested using the following requests:
 
 
-### Create a to do item:
+### Create an item:
 post - https://wk11exampletodoapi.herokuapp.com/todo/create
 
 n.b. request body must contain name field
