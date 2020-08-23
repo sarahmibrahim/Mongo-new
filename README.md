@@ -1,7 +1,6 @@
 # Week-11-Todo-API-Example
 
-Example of the complete API project for week 11.
- 
+Example of the complete Todo API 
 
 The app has been deployed to Heroku so can be tested using the following requests:
 
