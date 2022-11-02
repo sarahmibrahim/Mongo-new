@@ -1,5 +1,5 @@
 const { MongoClient, ServerApiVersion, ObjectId } = require('mongodb');
-const uri = "mongodb+srv://SarahMI:developer2@cluster0.4yry0o4.mongodb.net/?retryWrites=true&w=majority";
+const uri = "mongodb+srv://User:password@cluster0.4yry0o4.mongodb.net/?retryWrites=true&w=majority";
 const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true, serverApi: ServerApiVersion.v1 });
 const createError = require('http-errors')
 
